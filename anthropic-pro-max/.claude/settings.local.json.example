@@ -1,0 +1,5 @@
+{
+  "env": {
+    "_comment": "No static token. Run `claude /login` once to authenticate via OAuth (browser). Token is stored encrypted in the OS keychain by Claude Code, not here."
+  }
+}

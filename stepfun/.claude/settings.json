@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://api.stepfun.com/step_plan/anthropic",
+    "ANTHROPIC_MODEL": "step-3-fast",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "step-3-fast",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "step-3-fast",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "step-3-fast"
+  }
+}

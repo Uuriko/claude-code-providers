@@ -1,0 +1,6 @@
+{
+  "env": {
+    "_comment": "No ANTHROPIC_AUTH_TOKEN needed. Authenticate first with `aws sso login` or `aws configure`. Override AWS_REGION/AWS_PROFILE here if needed.",
+    "AWS_PROFILE": "default"
+  }
+}

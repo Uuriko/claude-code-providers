@@ -1,0 +1,5 @@
+{
+  "env": {
+    "ANTHROPIC_AUTH_TOKEN": "<your_ollama_cloud_api_key>"
+  }
+}

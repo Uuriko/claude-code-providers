@@ -1,0 +1,32 @@
+# Recommended GitHub topics for this repository.
+# Add via: GitHub repo → About (gear icon) → Topics.
+# Limit: GitHub allows up to 20 topics per repo. Order does not affect search ranking.
+
+# Tier 1 — primary / highest search volume
+claude-code
+claude-code-alternatives
+claude-code-providers
+anthropic-api
+anthropic-compatible
+
+# Tier 2 — model providers (each is its own search query)
+glm-coding-plan
+kimi-k2
+deepseek
+qwen-coder
+minimax-m2
+xiaomi-mimo
+openrouter
+ollama
+
+# Tier 3 — categories / use cases
+llm-providers
+coding-agent
+local-llm
+dgx-spark
+litellm
+awesome-list
+
+# Tier 4 — language / region (optional, only if room)
+# spanish
+# latam

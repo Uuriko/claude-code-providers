@@ -1,0 +1,5 @@
+{
+  "env": {
+    "ANTHROPIC_AUTH_TOKEN": "<azure-api-key-or-entra-token>"
+  }
+}

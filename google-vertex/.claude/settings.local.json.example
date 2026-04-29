@@ -1,0 +1,5 @@
+{
+  "env": {
+    "_comment": "No ANTHROPIC_AUTH_TOKEN needed. Run `gcloud auth application-default login` once. Override ANTHROPIC_VERTEX_PROJECT_ID here."
+  }
+}

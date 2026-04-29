@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "env": {
+    "CLAUDE_CODE_USE_BEDROCK": "1",
+    "AWS_REGION": "us-west-2",
+    "ANTHROPIC_MODEL": "anthropic.claude-opus-4-7-20251128-v1:0",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "anthropic.claude-sonnet-4-6-20251022-v1:0",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "anthropic.claude-opus-4-7-20251128-v1:0",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "anthropic.claude-haiku-4-5-20251001-v1:0"
+  }
+}

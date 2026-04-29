@@ -1,0 +1,17 @@
+# Credenciales por proveedor (defensa en profundidad: cada carpeta también ignora la suya)
+**/.claude/settings.local.json
+
+# Caches y temporales
+.DS_Store
+*.log
+.env
+.envrc
+
+# Editor
+.vscode/
+.idea/
+
+# Exclude legacy/unrelated files that may exist in provider folders
+**/parts/
+**/index.html
+**/*.js

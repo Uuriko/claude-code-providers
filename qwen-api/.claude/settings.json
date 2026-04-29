@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://dashscope-intl.aliyuncs.com/api/v2/apps/claude-code-proxy",
+    "ANTHROPIC_MODEL": "qwen3-coder-plus",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "qwen3-coder-plus",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "qwen3-max",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "qwen3-coder-flash"
+  }
+}
